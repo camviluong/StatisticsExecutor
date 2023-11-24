@@ -1,0 +1,3 @@
+[submodule "Libraries/rapidjson"]
+	path = Libraries/rapidjson
+	url = https://github.com/camviluong/rapidjson
