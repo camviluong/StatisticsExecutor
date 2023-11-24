@@ -1,0 +1,3 @@
+D:/GITEx/StatisticsExecutor/build/CMakeFiles/ALL_BUILD.dir
+D:/GITEx/StatisticsExecutor/build/CMakeFiles/ZERO_CHECK.dir
+D:/GITEx/StatisticsExecutor/build/StatisticsExecutor/CMakeFiles/StatisticsExecutor.dir
